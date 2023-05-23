@@ -2,8 +2,8 @@ import aiogram
 from aiogram import Bot, Dispatcher, types
 import openai
 
-openai.api_key = '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'
-bot_token = '5678722706:AAHezK3ekW4FDflxV3UrIdNJkk5CnWt-YoA'
+openai.api_key = 'open ai код'
+bot_token = 'код бота'
 bot_display_name = 'Иван Нифонтов'
 bot = Bot(token=bot_token)
 dispatcher = Dispatcher(bot)
